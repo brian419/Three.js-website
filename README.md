@@ -1,10 +1,10 @@
 # Jeongbin Son's Portfolio
 
 ## Introduction
-Welcome to my portfolio website, developed using Three.js, showcasing my projects, skills, and contact information. My name is Jeongbin Son, a computer science student passionate about web and app development, with a keen interest in immersive web experiences.
+Welcome to my portfolio website, developed using Three.js, showcasing my projects, skills, and contact information. My name is Jeongbin Son, a third year computer science student at the University of Alabama. I am very passionate about web and app development, with an interest in learning immersive web experiences.
 
 ## Website Overview
-The website features interactive 3D scenes created with Three.js, allowing visitors to explore my professional journey in a unique, engaging manner. Key sections include:
+The website features interactive 3D scenes created with Three.js. Key sections include:
 
 - **Home**: A welcoming space with a galaxy-themed background, where visitors can start their journey.
 - **About Me**: Learn about my background, education, and what drives my passion for technology.
